@@ -1,0 +1,24 @@
+Iterative elapsed_time=42.46152853965759 FOR 4 processes with chunk_count=12
+Iterative elapsed_time=75.01008892059326 FOR 4 processes with chunk_count=2
+Iterative elapsed_time=41.750927448272705 FOR 4 processes with chunk_count=4
+Iterative elapsed_time=47.17151594161987 FOR 4 processes with chunk_count=10
+Iterative elapsed_time=45.37922167778015 FOR 4 processes with chunk_count=100
+Iterative elapsed_time=41.26968789100647 FOR 4 processes with chunk_count=1000
+Vectorized elapsed_time=5.171624660491943 FOR 4 processes with chunk_count=12
+Vectorized elapsed_time=5.482867956161499 FOR 4 processes with chunk_count=2
+Vectorized elapsed_time=5.187031984329224 FOR 4 processes with chunk_count=4
+Vectorized elapsed_time=5.268902063369751 FOR 4 processes with chunk_count=10
+Vectorized elapsed_time=4.363542795181274 FOR 4 processes with chunk_count=100
+Vectorized elapsed_time=1.4684221744537354 FOR 4 processes with chunk_count=1000
+Iterative numba elapsed_time=2.1751155853271484 FOR 4 processes with chunk_count=12
+Iterative numba elapsed_time=2.6858038902282715 FOR 4 processes with chunk_count=2
+Iterative numba elapsed_time=2.2387709617614746 FOR 4 processes with chunk_count=4
+Iterative numba elapsed_time=2.2889928817749023 FOR 4 processes with chunk_count=10
+Iterative numba elapsed_time=2.250236749649048 FOR 4 processes with chunk_count=100
+Iterative numba elapsed_time=2.1968913078308105 FOR 4 processes with chunk_count=1000
+Vectorized numba elapsed_time=5.60802149772644 FOR 4 processes with chunk_count=12
+Vectorized numba elapsed_time=5.890302419662476 FOR 4 processes with chunk_count=2
+Vectorized numba elapsed_time=5.670575380325317 FOR 4 processes with chunk_count=4
+Vectorized numba elapsed_time=5.67933464050293 FOR 4 processes with chunk_count=10
+Vectorized numba elapsed_time=4.789780139923096 FOR 4 processes with chunk_count=100
+Vectorized numba elapsed_time=1.9296472072601318 FOR 4 processes with chunk_count=1000

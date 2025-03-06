@@ -1,0 +1,5 @@
+elapsed_time=144.20652318000793 FOR 1 process iterative numpy
+elapsed_time=6.5554163455963135 FOR 1 process vectorized numpy
+elapsed_time=6.522582530975342 FOR 1 process unrolled vectorized numpy
+elapsed_time=2.7074947357177734 FOR 1 process iterative numba
+elapsed_time=6.78777289390564 FOR 1 process vectorized numba
